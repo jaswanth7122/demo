@@ -1,0 +1,29 @@
+.container{
+    background-color: antiquewhite;
+
+}
+.navbar{
+    background-color: aqua;
+}
+.navbar ul{
+
+display: flex;
+list-style: none;
+text-decoration: none;
+}
+.navbar ul li{ 
+    margin: 25px 72px;
+}
+.btns ul{
+    display: flex
+;
+    margin-left: 10px;
+    padding: 15px 158px;
+}
+.btns ul li{
+    padding: 10px;
+}
+.btns ul .btn{
+         padding: 28px 211px;
+}
+
